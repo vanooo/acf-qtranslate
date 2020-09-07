@@ -1,0 +1,8 @@
+{
+    "name": "newcool/acf-qtranslate",
+    "description": "acf-qtranslate - 1.7.25",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": "^7.2"
+    }
+}
